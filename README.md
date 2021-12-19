@@ -91,9 +91,11 @@ The extraction and transformation of the Kaggle metadata using the ETL function 
 ![movies queery](Images/movies_query.png)
 
 2. The data from the MovieLens rating CSV file is added to the ratings table in the SQL database, as determined by the ratings_query.png.
+
 ![rating_query](Images/ratings_query.png)
 
 3. The elapsed time to add the data to the database is displayed in the ETL_create_database.ipynb file.
+
 ![Elapsed_time](Images/Elapsed_time.png)
 
 ## Summary :
